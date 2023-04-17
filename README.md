@@ -4,4 +4,4 @@
 Please note i dont work on this project anymore just thought i could share it, there are probably lots of issues with the code.
 
 Try the bot out here: 
-https://discord.com/oauth2/authorize?client_id=968903072585744564&scope=bot&permissions=0
+[Bot Link](gttps://discord.com/oauth2/authorize?client_id=968903072585744564&scope=bot&permissions=0)
